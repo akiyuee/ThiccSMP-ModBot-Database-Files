@@ -1,0 +1,309 @@
+{
+	"RESPONSES": [
+		{
+			"trigger": "ip sever",
+			"response": "<#868486782663159900>",
+			"exact": false
+		},
+		{
+			"trigger": "ip server",
+			"response": "<#868486782663159900>",
+			"exact": false
+		},
+		{
+			"trigger": "ip sv",
+			"response": "<#868486782663159900>",
+			"exact": false
+		},
+		{
+			"trigger": "quân ơi",
+			"response": "alo alo <@699512154004652093>, không dậy sút vỡ alo",
+			"exact": true
+		},
+		{
+			"trigger": "quân ei",
+			"response": "alo alo <@699512154004652093>, không dậy sút vỡ alo",
+			"exact": true
+		},
+		{
+			"trigger": "quan oi",
+			"response": "alo alo <@!699512154004652093>, không dậy sút vỡ alo",
+			"exact": true
+		},
+		{
+			"trigger": "quan ei",
+			"response": "alo alo <@!699512154004652093>, không dậy sút vỡ alo",
+			"exact": true
+		},
+		{
+			"trigger": "itzkhoa",
+			"response": "dumbass",
+			"exact": "true"
+		},
+		{
+			"trigger": "adevtran",
+			"response": "dream stan thiểu năng bú cứt chó",
+			"exact": "true"
+		},
+		{
+			"trigger": "itzkhoa smp",
+			"response": "ý bạn là, thùng rác cỡ lớn?",
+			"exact": "true"
+		},
+		{
+			"trigger": "drama",
+			"response": "<:ksPopcorn:955088500238217216>",
+			"exact": "true"
+		},
+		{
+			"trigger": "cắt gỗ",
+			"response": "tiều phu đến\ntao đi ngủ",
+			"exact": "true"
+		},
+		{
+			"trigger": "woodcutter",
+			"response": "ý bạn là, trẻ mắc chứng bại não?",
+			"exact": "true"
+		},
+		{
+			"trigger": "animal smp",
+			"response": "Là chuồng gia súc của mấy con súc vật bị thiểu năng à?",
+			"exact": "true"
+		},
+		{
+			"trigger": "among us",
+			"response": "Concerned parent here. This game has tore my family apart. My son has committed 3 CRIMES after playing this game. Those 3 crimes have all been murder. He says that he needs to be \"sus\" and is the \"impostor\". My son KILLED my husband and told me that I can't \"report\" the body other wise the other crewmates will think he is \"sus\" and that he would be \"ejected\". This game has completely corrupted my son, he would of never done ANYTHING like this before playing this game. I am so dissapointed that this game is still on the store. It is making kids the \"impostor\" and they are literally committing crimes. Why is this still up?",
+			"exact": "true"
+		},
+		{
+			"trigger": "giga chad",
+			"response": "giga chad? more like giga retard 😂",
+			"exact": "true"
+		},
+		{
+			"trigger": "rick roll",
+			"response": "ew, overused joke from a 1987 song used by cringy humorless facebook kiddies? I have searched the entire of Google, Bing, DuckDuckGo, Yahoo, Ask.com and still I couldn't find the funny part.",
+			"exact": "false"
+		},
+		{
+			"trigger": "anarchy",
+			"response": "anarchy là gì, là cái lũ thiểu năng bại não suốt ngày đi phá phách, tự cho mình là nhất á?",
+			"exact": "false"
+		},
+		{
+			"trigger": "hunggvn comment section",
+			"response": "pure cringe",
+			"exact": "true"
+		},
+		{
+			"trigger": "minecraft launcher",
+			"response": "MultiMC gang ftw <:6103iryscool:959356185780297749>",
+			"exact": "true"
+		},
+		{
+			"trigger": "xác minh smp",
+			"response": "địt mẹ thằng mắt mù, đéo biết đọc chữ à? ===> <#898488035920990208> rồi ngậm mẹ mồm vào, thằng thiểu năng",
+			"exact": "true"
+		},
+		{
+			"trigger": "fnf",
+			"response": "friday night fartnite 😂 😂 😂",
+			"exact": "false"
+		},
+		{
+			"trigger": "đỗ văn hải",
+			"response": "Nhân vật 2 bà Trưng oai phong lẫm liệt mà mang ra làm game? Vẽ nhân vật thì như đấm vào mắt! Lấy lòng game thủ Việt bằng cách đưa vào danh sách hàng hiếm? Mang nhân vật lịch sử Việt Nam ra để chơi đùa?Thử hỏi nhà làm game có dám lấy đại tướng Võ Nguyên giáp hay Hồ Chí Minh ra để tạo nhân vật không? Nếu mà làm được t đến đố.t luôn studio xem có dám đùa nghịch Lịch sử Việt Nam nữa không!\nHết chất xám làm game hay sao?",
+			"exact": "true"
+		},
+		{
+			"trigger": "dream stans",
+			"response": "chậm phát triển",
+			"exact": "true"
+		},
+		{
+			"trigger": "dream profile picture",
+			"response": "opinion invalidated",
+			"exact": "true"
+		},
+		{
+			"trigger": "cursedkiwi",
+			"response": "kiwi nguyen rua",
+			"exact": "true"
+		},
+		{
+			"trigger": "jahy",
+			"response": "lep",
+			"exact": "true"
+		},
+		{
+			"trigger": "lunar",
+			"response": "phud-",
+			"exact": "true"
+		},
+		{
+			"trigger": "evn",
+			"response": "rẻ rách",
+			"exact": "true"
+		},
+		{
+			"trigger": "vnpt",
+			"response": "rẻ rách",
+			"exact": "true"
+		},
+		{
+			"trigger": "vợ xuân bắc",
+			"response": "à, đĩ hề nhung",
+			"exact": "true"
+		},
+		{
+			"trigger": "nguyễn hồng nhung",
+			"response": "Cô nHắC LạI LầN NữA, đỨa nÀo tHả pHẫN Nộ cÔ BlOcK, hOặC ChIa sẺ KiỂu mỈa mAi cÔ CũNg bLoCk, Ib cHủ.i vÀ DạY Dỗ cÔ CũNg bLoCk. PhẢi iM Im tHả tIm tHeO DõI Cô, HọC ĐưỢc ốI ThỨ ĐấY HiỂu kHôNg. MuỐn nGưỜi kHáC ThAy đỔi qUaN ĐiỂm vỀ HìNh đẠi dIệN CủA MìNh tHì tHaY ĐổI CáCh cƯ Xử. KhI NàO , BảN ThÂn mÌnH MuỐn kHẳNg đỊnH Fb cỦa mÌnH NhƯ ChÍnH CoN NgƯờI Tử tẾ (cỦa mÌnH )tHì sẼ LuÔn gHi dẤu hÌnH ẢnH ChA Mẹ sInH Ra mÌnH. cÒn nẾu kHôNg pHảI Là cHíNh mÌnH ThÌ Ắt cÓ NgUyÊn nHâN KhÓ NóI, mÀ Đã kHó nÓi tHì đỪnG ThỂ HiỆn qUaN ĐiỂm. BởI QuAn đIểM CủA NhỮnG NgƯờI Cô kHôNg bIếT Là aI ThÌ KhÔnG Có gIá tRị.... cÒn cÔ GiÁo nÀo bẢo lÀ CáC CoN KhÔnG NêN Để hÌnH ĐạI DiỆn mẶt mÌnH Vì sỢ NgUy hIểM ThÌ Cô ấY SaI RồI, nGuY HiỂm hAy kHôNg lÀ Do cÁc cOn hÀnH Xử tRêN KhÔnG GiAn mẠnG....hOặC Có lÝ Do mẶt mỤn dẬy tHì tHì iB Cô cHỉ cHo cÁcH ChỮa nHé.... hOặC BáO Bố mẸ LiÊn hỆ Cô.nHư cÁc bẠn nHà cÔ Da mỊn nHư đĨ Hề nHuNg.... xInH GiAi lẮm.... nGoAn nỮa!",
+			"exact": "true"
+		},
+		{
+			"trigger": "pongpool",
+			"response": "pongpool? nghe giống pong cứt hơn 😂 😂 😂",
+			"exact": "true"
+		},
+		{
+			"trigger": "aternos",
+			"response": "Ừ 🤡 NhƯnG 🤡 AtErNoS 🤡 ThÌ 🤡 SaO 🤡 , 🤡 MọI 🤡 NgƯờI 🤡 KhÔnG 🤡 PhẢi 🤡 qUá 🤡 qUaN 🤡 TâM 🤡 ĐếN 🤡 CáI 🤡 TêN 🤡 ThAy 🤡 vÌ 🤡 ThỪa 🤡 nHậN 🤡 Nó 🤡 lÀ 🤡 CáI 🤡 HoSt 🤡 tỐt 🤡 vÀ 🤡 Dễ 🤡 dÙnG 🤡 NhẤt 🤡 à?\n \n - Nguyễn Chu Ngọc Minh",
+			"exact": "true"
+		},
+		{
+			"trigger": "hề nhung",
+			"response": "ĐằNg 🤡 sAu 🤡 nHữNg 🤡 fB 🤡 Ảo 🤡 lÀ 🤡 NhỮnG 🤡 CoN 🤡 NgƯờI 🤡 ThẬt. 🤡 ĐằNg 🤡 sAu 🤡 nHữNg 🤡 “PhẪn 🤡 nỘ 🤡 DạO” 🤡 lÀ 🤡 NhÂn 🤡 cÁcH 🤡 CủA 🤡 Cả 🤡 mỘt 🤡 cOn 🤡 nGưỜi. 🤡 ChẲnG 🤡 Có 🤡 nGưỜi 🤡 cHa, 🤡 NgƯờI 🤡 Mẹ 🤡 tỬ 🤡 Tế 🤡 nÀo 🤡 lẠi 🤡 ủNg 🤡 hỘ 🤡 CoN 🤡 MìNh 🤡 sUốT 🤡 NgÀy 🤡 rÌnH 🤡 RậP 🤡 Và 🤡 pHẫN 🤡 Nộ 🤡 dẠo 🤡 tRêN 🤡 Fb 🤡 cỦa 🤡 nGưỜi 🤡 kHáC. 🤡 tHấY 🤡 ThẬt 🤡 đÁnG 🤡 BuỒn 🤡 cHo 🤡 cÁc 🤡 bẬc 🤡 cHa 🤡 mẸ 🤡 Có 🤡 nHữNg 🤡 đỨa 🤡 cOn 🤡 nHư 🤡 vẬy",
+			"exact": "true"
+		},
+		{
+			"trigger": "apple fanboy",
+			"response": "chỉ có lũ thiểu năng mới đi dùng Windows. macOS là hệ điều hành ổn định, an toàn nhất của Apple. Một hệ điều hành chất lượng so với Windows rác thì chắc chắn là loại từ vòng gửi xe.",
+			"exact": "true"
+		},
+		{
+			"trigger": "gỗ cắt",
+			"response": "thiểu năng tập sủa",
+			"exact": "true"
+		},
+		{
+			"trigger": "hoàng hề",
+			"response": "https://media.discordapp.net/attachments/894853950346502215/940989225879343194/Screenshot_20220209-213217_Discord.jpg",
+			"exact": "true"
+		},
+		{
+			"trigger": "Yui",
+			"response": "dum",
+			"exact": "true"
+		},
+		{
+			"trigger": "clown",
+			"response": "ôi bn à mình nghĩ là nếu bn cs giáo dục thì sẽ k ns những điều thể hiện sự ngu học dou bn,liệu bn bt sv mình cs tv ntn ,liệu bn cs hiểu về trình độ máy tính k ,sv mik thì cs nên mik ms dám ns để tư vấn L: còn cái loại trash như bn ik mik nghĩ là bn cần cải cách về trình độ và giáo dục \\🤡 \\🤡 \\🤡 \\🤡 \\🤡 vc j mik phải mua trg khi mik tự lm cx dc L: bn dc nuông chiều từ bé thì kệ bn ,vc j bn phải chõ mõm vô lm cc j bn thik gây sự vs ng khác trg khi bn lại là kẻ ngu học thì nó thể hiện j ,nó chỉ khiến cho ng khác nghĩ bn dell cs GD,ngu .mình muốn bn Việt vô sv thì lm sao .nếu bn cs VPS hay đại loại mua bằng tiền sao bn dell mời đi ,chõ mồm vô lm j .ShUt Up \\🤡 \\🤡 \\🤡 \\🤡 \\🤡 \\nhttps://media.discordapp.net/attachments/925619362050744361/970791369280995438/Screenshot_20220503-035752_Facebook.jpg",
+			"exact": "true"
+		},
+		{
+			"trigger": "vietmc",
+			"response": "t đã bảo rồi nói 1 lần là hiểu 🤡🤡🤡 còn tụi m nhai đi nhai lại thì t chịu còn post bài thì t vẫn post 🤡🤡🤡 còn phốt thì kệ tụi m nhìn lại cái bài đi hả phốt ?? 🤡🤡🤡 Đọc post dùm cái lớn rồi bik đọc chữ chứ còn tên người ta thích đặt j có liên quan gì có cái tên nhai đi nhai lại không chán hả ?? 🤡🤡🤡",
+			"exact": "true"
+		},
+		{
+			"trigger": "rip",
+			"response": "Tạm biệt nhé người em yêu\nEm chúc anh vui bên người\nVàng bạc cao sang\nLấp lánh mang nụ cười\nNghe tin người đi ngỡ ngàng\nAnh theo ai tình đã lỡ làng\nCất hết kí ức ban đầu\nThôi yêu thương xưa đành quên",
+			"exact": "true"
+		},
+		{
+			"trigger": "dang khoi nguyen",
+			"response": "ChÀo mN, mÌnH MuỐn bÓc pHốT MộT ChÚt vỀ GrOuP CiRcUsSmP NàY, tỪ CáI CáCh ăN NóI ĐếN ThÁi đỘ CủA VàI MeM VớI Cả mOdErAtOr, ThÌ MìNh cÓ QuAy lẠi gRoUp nÀy sAu 3 tHáNg lÀm dEv bÊn gRoUp kHáC, mUốN XeM NếU SeRvEr cÒn hOạT ĐộNg kHôNg đỂ ChƠi, ThÌ MìNh cÓ Để ý oWnEr đÃ TạM ĐóNg đỂ Đi hỌc. KhÔnG BiẾt lÀm gÌ KhÁc, MìNh cÓ NóI ChUyỆn vỚi hỌ MộT ChÚt, TớI CâU NhẮn cUốI CùNg kHôNg cÒn aI ReP NữA MớI TạM BiỆt, CùNg vỚi cÂu \"GrOuP HơN 1k mEm mÀ KhÔnG PhÁt tRiỂn nỔi:/\", vỪa nÓi xOnG CáI TụI MoD CảM ThẤy nHộT, cHửI LạI CáC KiỂu, GửI EmOjI ClOwN LàM NhƯ TôI Là tRúA Hề, VớI VàI MeM KhÁc nHậP HộI Để cHửI MìNh, MộT VàI Đã lẤy tIn nHắN Từ gRoUp mInEcRaFt đÃ ĐóNg cỦa mÌnH Từ 4 tHáNg tRưỚc, -\"SeRvEr cÒn kHôNg cÓ NổI 2 BoOsT\" mỘt vÀi cHê dEaD CáC KiỂu, TrOnG KhI GrOuP ĐấY ChỈ Có 30 MeM Và đA Số lÀ BạN MìNh vÀ ĐềU Đã bẬn hỌc. MộT ThẰnG MoD Mà mÌnH MuỐn đỂ LêN ToP BảNg lÀ ÔnG KhAnG Gì đẤy cÓ CàI Số mOmO, mUtE MìNh mẶc dÙ ChƯa lÀm tRáI LuẬt, LấY ẢnH Cá nHâN CủA MìNh vÀ LấY Cả bA MìNh đÃ MấT Để bÔi nHọ \"BuDdY ReTaRd bỊ Bố mẤt\", tHề mÌnH TứC Bỏ mẸ Ra, Mà cŨnG BấT LựC KhÔnG BiẾt lÀm gÌ KhÁc, NãY Có ý đỊnH RaId sErVeR Mà tHôI.",
+			"exact": "true"
+		},
+		{
+			"trigger": "feather client",
+			"response": "fatherless client",
+			"exact": "true"
+		},
+		{
+			"trigger": "nam ki",
+			"response": "https://media.discordapp.net/attachments/899255260546203659/970636561723039764/unknown.png",
+			"exact": "true"
+		},
+		{
+			"trigger": "who asked",
+			"response": "https://i.ytimg.com/vi/sNxGnD97CQ4/maxresdefault.jpg",
+			"exact": "true"
+		},
+		{
+			"trigger": "sua",
+			"response": "https://media.discordapp.net/attachments/859837426414256148/923600567467655218/unknown.png",
+			"exact": "true"
+		},
+		{
+			"trigger": "ngu như bò",
+			"response": "https://mvnm.vercel.app/images/chep%20bai.jpeg",
+			"exact": "true"
+		},
+		{
+			"trigger": "nam kì chó",
+			"response": "https://cdn.discordapp.com/attachments/899255260546203659/970636561723039764/unknown.png",
+			"exact": "true"
+		},
+		{
+			"trigger": "ai hỏi",
+			"response": "https://cdn.discordapp.com/attachments/951682960283803698/971683022107725854/unknown.png",
+			"exact": "true"
+		},
+		{
+			"trigger": "alexa, find the funny",
+			"response": "https://media.discordapp.net/attachments/899255260546203659/971712992481787944/4ezmj3.gif",
+			"exact": "true"
+		},
+		{
+			"trigger": "huy trương",
+			"response": "meme lạc nhách 🤡 🤡 🤡 bạn coi j thì kệ bn 🤡 🤡 🤡 chứ tôi thấy mấy cái group giờ mắc cười thật 🤡 🤡 🤡 coi bất cứ cái j cx coi là rác đc 🤡 🤡 🤡 rồi tỏ ra mk am hiểu về cuộc sống và cười vào mặt những người bạn cho là rác 🤡 🤡 🤡 bạn làm vậy để được j họ xem là để giải trí mà? 🤡 🤡 🤡 Nếu mà bạn nói content chất lượng là phải có giáo dục thì bạn xách cặp lên trường đấy mà học nhá 🤡 🤡 🤡 vì đó là những thứ bạn muốn khỏi tốn tiền đóng wifi 🤡 🤡 🤡 vì những thứ bn xem ngày xưa dead cmnr 🤡 🤡 🤡https://cdn.discordapp.com/attachments/950581452620333136/972105687561805924/unknown.png",
+			"exact": "true"
+		},
+		{
+			"trigger": "genshin",
+			"response": "ủa?thế t nói sai hả?? Ai chứng minh được là mấy game đó hay hơn genshin vậy? Mà nếu hơn thì theo cảm nhận của t Genshin vẫn hơn chứ m bắt đc à tr~? đã đọc hết story genshin chưa mà bảo ko hay bằng mấy game đó v? T chs GI từ đầu 2021 rồi thì t tự tin khẳng định nó hay còn m thì chắc chưa chs được tí nào đã phán như thật. Bớt sống cho người khác đi bn oi 🤷‍♀️ Thích thì tạo box ib riêng chứ sao lại đăng lên thế này",
+			"exact": "true"
+		},
+		{
+			"trigger": "mine vi en",
+			"response": "https://cdn.discordapp.com/attachments/859837426414256148/972142187561230408/unknown.png",
+			"exact": "true"
+		},
+		{
+			"trigger": "find the funny",
+			"response": "https://media.discordapp.net/attachments/899255260546203659/971712992481787944/4ezmj3.gif",
+			"exact": "true"
+		},
+		{
+			"trigger": "newbie",
+			"response": "https://i.imgur.com/CIkL0Bt.png",
+			"exact": "true"
+		},
+		{
+			"trigger": "thicc smp",
+			"response": "https://cdn.discordapp.com/attachments/925619362050744361/951092733395738654/Screenshot_20220309-192235.jpg",
+			"exact": "true"
+		},
+		{
+			"trigger": "đẳng cấp gà",
+			"response": "https://files.catbox.moe/po8ux9.png",
+			"exact": "true"
+		},
+		{
+			"trigger": "suc cac",
+			"response": "https://files.catbox.moe/apvr7w.png",
+			"exact": "true"
+		},
+		{
+			"trigger": "2y2c",
+			"response": "2 ỉa 2 cứt, thiểu năng phá luật rẻ rách",
+			"exact": "true"
+		},
+		{
+			"trigger": "tại sao 2y2c bị kì thị",
+			"response": "https://files.catbox.moe/zr3osg.png",
+			"exact": "true"
+		}
+	]
+}
